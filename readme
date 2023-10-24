@@ -12,7 +12,7 @@ https://bit.ly/hg-07-3 : 손실 곡선, 모델 저장과 복원, 콜백, 최상�
 https://bit.ly/hg-08-2 : 합성곱 신경망을 사용한 이미지 분류 422p~
 https://bit.ly/hg-08-3 : 합성곱 신경망의 시각화 464p
 https://bit.ly/hg-09-2 : 순환 신경망으로 리뷰 분류하기 486p~
-https://bit.ly/hg-09-3 : LSTM과 GRU 셀 543p
+https://bit.ly/hg-09-3 : LSTM과 GRU 셀, 드롭아웃 543p
 
 로지스틱 회귀할때. 이진분류 할때는 시그모이드, 다중분류 할때는 소프트맥스 사용하기
 
